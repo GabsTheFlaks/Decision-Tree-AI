@@ -18,7 +18,7 @@ Este repositório contém um assistente virtual simples rodando diretamente no t
 ## 🚀 Como começar
 
 ### Pré-requisitos
-- Python 3.10 ou superior.
+- Python 3.10 ou superior(não use python 3.14 ele quebra).
 - Uma chave de API gratuita da Groq (Crie uma em [console.groq.com](https://console.groq.com)).
 
 ### Instalação
