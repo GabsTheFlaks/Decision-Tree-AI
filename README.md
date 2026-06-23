@@ -1,5 +1,4 @@
-# 🤖 CrewAI Chatbot - Proof of Concept
-
+# 🤖 CrewAI Chatbot
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Agent-orange?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-Llama_3.3-black?style=for-the-badge)
